@@ -1,1 +1,0 @@
-# sophitia.github.io
