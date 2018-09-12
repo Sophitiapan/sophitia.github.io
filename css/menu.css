@@ -22,7 +22,6 @@ table{
     width:80%;
     border: thin solid white;
     border-collapse: collapse;
-
 }
 
 tr:nth-child(odd){
@@ -54,10 +53,15 @@ th{
     width:10%;
 }
 p{
-    text-align:left;
-    margin-left: 80px;
+    text-align:center;
+    width:auto;
 }
 
 em{
     font-style:italic;
 }
+
+
+
+
+
