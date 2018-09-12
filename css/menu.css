@@ -1,16 +1,15 @@
 body{
-    background-color:#b5a789;
-
+    background: #efe5d0 url("../images/background2.gif") top left;
 }
 
 h1{
     margin-top:80px;
-    color:#675c47;;
+    color:saddlebrown;
     text-align:center;
 }
 
 h2{
-    color:#675c47;
+    color:saddlebrown;
     text-align:center;
 }
 
@@ -66,7 +65,11 @@ em{
     font-style:italic;
 }
 
+#header{
+    background:url("../images/background2.gif"),url("../images/background.gif ") top left;
 
+    margin:10px;
 
+}
 
 
